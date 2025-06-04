@@ -46,4 +46,14 @@ N(like Cricket and Football)=2+5=7
 
 P(like Cricket and Football)  =  N(like Cricket and Football)/N(all)  =  7/(21+25+30+3+5+2+10+4)  =  7/100 = 0.7 = 70%
 
+## union of sets
 
+all items include in both sets
+
+N(like cricket or football) = 53
+
+P(like cricket or football) = n(like cricket or football)/n(all)
+
+= (n(cricket)+n(football)-n(like cricket and football))/n(all)
+
+P(like cricket or football) = 53/100 = 0.53 = 53%
