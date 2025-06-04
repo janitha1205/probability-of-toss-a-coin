@@ -31,6 +31,19 @@ P(red)= n(red)/n(all)=3/10
 
 p(red')=1-p(red)=7/10
 
-#
+# servey results(probability using sets)
+
 
 ![image](https://github.com/user-attachments/assets/b22b178e-949a-48bf-a557-475e94fe3a4f)
+
+## intersection of sets
+
+this is where share common in paticular groups
+
+ex:
+
+N(like Cricket and Football)=2+5=7
+
+P(like Cricket and Football)  =  N(like Cricket and Football)/N(all)  =  7/(21+25+30+3+5+2+10+4)  =  7/100 = 0.7 = 70%
+
+
