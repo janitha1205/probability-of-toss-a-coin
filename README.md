@@ -30,3 +30,7 @@ P(trail) near to 0.5 as it has given same chance to ones occur
 P(red)= n(red)/n(all)=3/10
 
 p(red')=1-p(red)=7/10
+
+#
+
+![image](https://github.com/user-attachments/assets/b22b178e-949a-48bf-a557-475e94fe3a4f)
