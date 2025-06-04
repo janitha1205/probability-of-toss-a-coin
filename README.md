@@ -10,7 +10,9 @@ there is a equalt chance of happing either one expectation.
 how likelly something to happen
 
 number trails : n
+
 heads occur: m
+
 tails occur: n-m
 
 P(head)= m/n
@@ -19,3 +21,6 @@ P(head)= m/n
 
 toss the coin in n nuber of time and observed the heads occured in number out of trails 
 
+# observed
+
+P(trail) near to 0.5 as it has given same chance to ones occur 
