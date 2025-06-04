@@ -24,3 +24,9 @@ toss the coin in n nuber of time and observed the heads occured in number out of
 # observed
 
 P(trail) near to 0.5 as it has given same chance to ones occur 
+
+# picking mables on box(3 red, 2 blue, 5 green)
+
+P(red)= n(red)/n(all)=3/10
+
+p(red')=1-p(red)=7/10
