@@ -316,6 +316,6 @@ probility of sucess at lesser than 3 rolls
 
 Q2:
 
-probility of sucess at least 3 rolls
+probility of sucess at not more than 3 rolls
 
 p(X<=3) = p(X=1) + P(X=2) + P(X=3) = 0.16 + 0.14 + 0.116 = 0.316
