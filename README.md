@@ -164,3 +164,50 @@ P(correct) = 1/P(60,3) = 1 / (60*59*58) = 1 / 205320 = 4.871*e^-6
 = 0.0487 %
 
  # combinations
+
+ in the situation where there is  unique feature in the set of object, number of items of unique features; however, there order arragement doesnt matters like purmutation,taken out in the stance known as combination
+
+ notation
+
+ C(n,r) = (n r) = n!/(n-r)!r!
+
+ ex:
+
+in group of 10 people how many of 3 people group could be created 
+
+(10,3)  = C(10,3)  =  10! / (7! x 3!) = (10*9*8) / (3*2) =5*3*8 = 120
+
+ex: kids 7 and adult 11, how posible the group having 6 people at a time there is only 1 kid in team 
+
+P(1 kid) = n(ad=5,kid=1) / n(6 out of 18) = (7 1) * (11 5) / (18 6)
+
+= (C(7,1) * C(11,5))/C(18,6) 
+
+= 388080*6!*12!/120*18!
+
+= 0.1742
+
+= 17.42 %
+
+# Probability distribution
+
+## types
+
+1 Noramal
+
+![image](https://github.com/user-attachments/assets/c090eb06-1029-4fa1-b98c-ee993558dd5d)
+
+
+2 Exponential
+
+![image](https://github.com/user-attachments/assets/c5b92fee-c38a-4284-8dd9-4f0584a16afd)
+
+
+3 chi-squased
+
+![image](https://github.com/user-attachments/assets/ea515b46-933b-4390-aa57-4d1e5fed1806)
+
+
+4 uniform
+
+![image](https://github.com/user-attachments/assets/f6002de3-0265-4f7a-9877-73aab64b60cb)
