@@ -193,10 +193,27 @@ P(1 kid) = n(ad=5,kid=1) / n(6 out of 18) = (7 1) * (11 5) / (18 6)
 
 ## types
 
-1 Noramal
+1 Normal
 
 ![image](https://github.com/user-attachments/assets/c090eb06-1029-4fa1-b98c-ee993558dd5d)
 
+PDF:
+ mean and standard deviation of data tells about propability of given varible value within the data for representaion model
+ so in mean std are modelling parameeters of that can evaluate using experimental data
+
+ex:
+for the market value of product valivated in price of 125 Rs at deviation of 5.8 Rs what is probability of product valued in 155 Rs
+
+mean = 125
+std = 5.8
+Z(val=155) = (x-mean)/std = (155-125) / 5.8 
+= 5.172
+
+pdf(z=155) = (1/(std*sqrt(2* pi))) *exp(-((z-mu)^2)/(2 x (std^2)))
+
+using integrade pdf into pdf(0) to pdf(upper bound: end) as a fraction of from pdf(z=155) to pdf(upper bound: end) given the propability  
+
+p(z>155) = 0.00000116 %
 
 2 Exponential
 
