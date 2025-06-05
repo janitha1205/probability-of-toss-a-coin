@@ -142,14 +142,8 @@ Permutation is also known by this n! n element
 
 elements: A B C
 
- 1 dig   2 dig    3 dig
+1 dig   2 dig    3 dig
  
-3 ele
-
-       3-1 ele
-       
-                3-1-1 ele
-                
 P(3,2) P(2,1)   P(1,1)
 
 3      2        1
