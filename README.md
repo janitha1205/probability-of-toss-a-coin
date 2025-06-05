@@ -144,9 +144,9 @@ elements: A B C
 
 1 dig   2 dig    3 dig
  
-P(3,2) P(2,1)   P(1,1)
+P(3,2) x P(2,1) x P(1,1)
 
-3      2        1
+= 3  x  2   x 1
 
 = 6
 
