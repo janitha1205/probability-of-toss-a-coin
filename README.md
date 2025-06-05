@@ -228,3 +228,83 @@ p(z>155) = 0.00000116 %
 4 uniform
 
 ![image](https://github.com/user-attachments/assets/f6002de3-0265-4f7a-9877-73aab64b60cb)
+
+5 binomial distribution
+
+probability of k sucess trails out of total n trails
+
+p is the probability of sucess
+
+P(X=k)=(n k)x p^k*(1-p)^(n-k)  {this is know as probabilty mass function}
+
+ex: rolling die to expect #3 occured with 4 conecutive trails find probability for each occurance with considering binomial pdf
+
+![image](https://github.com/user-attachments/assets/26a8fd93-b1b2-4360-ba9f-baecb13d09e8)
+
+### expected value
+
+E(#3) = n*p
+
+p : probability of #3 occured
+n : number of roll
+
+E(#3)= 4*(1/6) 
+
+4 trails exepectation is 0.67
+
+
+### geometric probability distribution
+
+this is where the none dependent distribution PMF(probability mass function)
+
+p: probabilty of sucess
+
+k: total number of sucess
+
+P(X=k) = (1-p)^(k-1) * p
+
+ex: rolls two dies to come up double probability of first sucess
+
+p = 6/36
+
+k=1
+
+p(x=1) = (5/6)^0*(1/6)
+
+= 1/6
+
+= 0.1666
+
+k=2
+
+p(x=2) = (5/6)^1*(1/6)
+
+= 5/36
+
+= 0.14
+
+k=3
+
+p(x=3) = (5/6)^2*(1/6)
+
+=  25/216
+
+=0.1154
+
+k=4
+
+p(x=4) = (5/6)^3*(1/6)
+
+=  0.0965
+
+Q1:
+
+probility of sucess at lesser than 3 rolls
+
+ p(X<3) = p(X=1) + P(X=2) = 0.16 + 0.14 = 0.2
+
+Q2:
+
+probility of sucess at least 3 rolls
+
+p(X<=3) = p(X=1) + P(X=2) + P(X=3) = 0.16 + 0.14 + 0.116 = 0.316
